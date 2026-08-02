@@ -17,7 +17,7 @@ Designed and added two new tables satisfying Third Normal Form (3NF) to support 
 - 'overdue_accounts': Manages customers with 90+ day overdues and total accumulated financial damages.
 - 'incident_reports': Logs anomalous activities, incident types, descriptions, and investigation statuses.
 
-![ER Diagram](docs/ER_diagram.png)
+![ER Diagram](ER_diagram.png)
 
 ---
 
